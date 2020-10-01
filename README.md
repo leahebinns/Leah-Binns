@@ -1,5 +1,7 @@
 # Leah-Binns
-My portfolio
-
-Hi! This is the site for what will be my portfolio of writing. 
-I am just learning how to code.
+<head>
+  Leah's portfolio
+ </head>
+ <body>
+  <p>This is where I am learning how to code, and forming a portfolio of my writing.</p>
+ </body>
